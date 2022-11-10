@@ -1,5 +1,6 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
+### Santiago Fetecua - Juan David Martinez
 
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
